@@ -1,0 +1,10 @@
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\bin\Debug\ControlDeLista.exe.config
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\bin\Debug\ControlDeLista.exe
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\bin\Debug\ControlDeLista.pdb
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\obj\Debug\ControlDeLista.csprojResolveAssemblyReference.cache
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\obj\Debug\ControlDeLista.Form1.resources
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\obj\Debug\ControlDeLista.Properties.Resources.resources
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\obj\Debug\ControlDeLista.csproj.GenerateResource.Cache
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\obj\Debug\ControlDeLista.csproj.CoreCompileInputs.cache
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\obj\Debug\ControlDeLista.exe
+C:\Users\Michelita\source\repos\ControlDeLista\ControlDeLista\obj\Debug\ControlDeLista.pdb
